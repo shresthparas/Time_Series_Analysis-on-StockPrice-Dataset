@@ -7,6 +7,6 @@
 
 3.processing of the data
 
-4.model building
+4.model building by use of ARIMA
 
 5.model evalution
